@@ -1,1 +1,1 @@
-# pgp-public-key
+PGP Public Key Fingerprint: BAB0 4FF9 1998 D1FE 3522 8CC6 E858 55C3 E3DF 12D6 
